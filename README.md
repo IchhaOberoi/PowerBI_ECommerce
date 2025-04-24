@@ -106,7 +106,7 @@ Harnessed the power of Power BI to transform these datasets into a compelling na
 
 ## DashBoard Building
 
-The project culminated in the creation of a comprehensive, interactive Power BI dashboard. The dashboards incorporated slicers, filters, and page navigation to enhance interactivity and user experience.
+The project culminated in the creation of a comprehensive, interactive Power BI dashboard. The dashboard incorporated slicers, filters, and page navigation to enhance interactivity and user experience.
 
 
 ![image](https://github.com/user-attachments/assets/55036164-cb90-41f0-896c-be27f589f547)
